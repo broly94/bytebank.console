@@ -13,6 +13,7 @@ public abstract class Official implements IOfficial {
 		this.user = user;
 	}
 	
+	
 	public User getUser(){
 		return this.user;
 	}

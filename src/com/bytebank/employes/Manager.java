@@ -4,7 +4,7 @@ import com.bytebank.intercaces.IBonusType;
 import com.bytebank.user.User;
 
 public class Manager extends Official {
-
+	
 	public Manager(double salary, User user) {
 		super(salary, user);
 	}
